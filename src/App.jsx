@@ -9,8 +9,7 @@ function App() {
   return (
     <>
       <div className='px=20'>
-        <Button>Testing</Button>
-        <AccordionDemo></AccordionDemo>
+        
       </div>
     </>
   )
